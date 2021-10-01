@@ -19,7 +19,7 @@ My name is SilentCrafter (in case you didnt read the profile name) (not irl name
   
   ---
   <a href="https://github.com/Silent-Crater">
-    <img src="https://github-readme-stats.vercel.app/api?username=Silent-Crafter&count_private=true&theme=radical" align="left" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Silent-Crafter&count_private=true&theme=chartreuse-dark" align="left" width="48%">
   </a>
   <a href="https://github.com/Silent-Crater">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent-Crafter&layout=compact&theme=chartreuse-dark" align="right" width="47%">
