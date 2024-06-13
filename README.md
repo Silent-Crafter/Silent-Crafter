@@ -20,9 +20,9 @@ I am a Cyber Security Aspirant. I have an addiction for Linux-based OS(s) and Vi
   - Learnt html (i know html isn't a programming language dont @ me) and c first.
   
   ---
-  <a href="https://github.com/Silent-Crater">
+  <a href="https://github.com/Silent-Crafter">
     <img src="https://github-readme-stats.vercel.app/api?username=Silent-Crafter&count_private=true&theme=chartreuse-dark" align="left" width="48%">
   </a>
-  <a href="https://github.com/Silent-Crater">
+  <a href="https://github.com/Silent-Crafter">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent-Crafter&layout=compact&theme=chartreuse-dark" align="right" width="47%">
   </a>
